@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    "contracts/lib": true,
+    "contracts/cache": true,
+    "contracts/out": true,
+    "contracts/bindings": true,
+  },
+  "search.exclude": {
+    "contracts/lib": true,
+    "contracts/cache": true,
+    "contracts/out": true,
+    "contracts/bindings": true,
+  }
+}

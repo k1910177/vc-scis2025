@@ -1,0 +1,8 @@
+/z
+/target
+/.venv
+/contracts/bindings
+/contracts/out
+/contracts/cache
+
+/result

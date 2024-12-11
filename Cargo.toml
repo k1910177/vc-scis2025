@@ -1,0 +1,9 @@
+[workspace]
+resolver = "2"
+members = ["app", "contracts/bindings", "kzg", "merkle", "verkle"]
+
+[workspace.dependencies]
+foundry-contracts = { path = "contracts/bindings" }
+kzg-commitment = { path = "kzg" }
+verkle-tree = { path = "verkle" }
+merkle-tree = { path = "merkle" }
