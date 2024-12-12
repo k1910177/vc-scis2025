@@ -11,7 +11,7 @@
 Clone the repository
 
 ```sh
-git clone https://github.com/k1910177/vcsc-rs
+git clone https://github.com/k1910177/vc-scis2025
 ```
 
 Install packages and dependencies
